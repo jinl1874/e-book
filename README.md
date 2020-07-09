@@ -20,11 +20,11 @@
 1. [寻狗事务所](https://github.com/jinl1874/e-book/tree/master/%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4/%E5%AF%BB%E7%8B%97%E4%BA%8B%E5%8A%A1%E6%89%80)
 2. [赤村崎葵子的分析是瞎扯淡](https://github.com/jinl1874/e-book/tree/master/%E8%BD%BB%E5%B0%8F%E8%AF%B4/%E8%B5%A4%E6%9D%91%E5%B4%8E%E8%91%B5%E5%AD%90%E7%9A%84%E5%88%86%E6%9E%90%E6%98%AF%E7%9E%8E%E6%89%AF%E6%B7%A1)
 3. [继母的拖油瓶是我的前女友](https://github.com/jinl1874/e-book/tree/master/%E8%BD%BB%E5%B0%8F%E8%AF%B4/%E7%BB%A7%E6%AF%8D%E7%9A%84%E6%8B%96%E6%B2%B9%E7%93%B6%E6%98%AF%E6%88%91%E7%9A%84%E5%89%8D%E5%A5%B3%E5%8F%8B)
-4. [羔羊的盛宴]()
-5. [折断的龙骨]()
-6. [平凡的世界]()
-7. [尼罗河上的惨案]()
-8. [少女不十分]()
+4. [羔羊的盛宴](https://github.com/jinl1874/e-book/tree/master/%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4/%E7%BE%94%E7%BE%8A%E7%9A%84%E7%9B%9B%E5%AE%B4)
+5. [折断的龙骨](https://github.com/jinl1874/e-book/tree/master/%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4/%E6%8A%98%E6%96%AD%E7%9A%84%E9%BE%99%E9%AA%A8)
+6. [平凡的世界](https://github.com/jinl1874/e-book/tree/master/%E5%BD%93%E4%BB%A3%E5%B0%8F%E8%AF%B4/%E5%B9%B3%E5%87%A1%E7%9A%84%E4%B8%96%E7%95%8C)
+7. [尼罗河上的惨案](https://github.com/jinl1874/e-book/tree/master/%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4/%E5%B0%BC%E7%BD%97%E6%B2%B3%E4%B8%8A%E7%9A%84%E6%83%A8%E6%A1%88)
+8. [少女不十分](https://github.com/jinl1874/e-book/tree/master/%E8%BD%BB%E5%B0%8F%E8%AF%B4/%E5%B0%91%E5%A5%B3%E4%B8%8D%E5%8D%81%E5%88%86)
 
 ### epub制作教程
 待更新
