@@ -35,4 +35,4 @@
 
 ### epub 制作教程
 
-[教程](https://zhuanlan.zhihu.com/p/158231715)
+[教程](https://jinl1874.xyz/2020/07/08/%E4%BD%BF%E7%94%A8%E5%A4%9A%E7%9C%8B%E7%9A%84Dobby%E5%88%B6%E4%BD%9C%E7%B2%BE%E7%BE%8E%E6%8E%92%E7%89%88%E7%9A%84epub%E7%94%B5%E5%AD%90%E4%B9%A6/)
