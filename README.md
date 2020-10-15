@@ -6,7 +6,7 @@
 
 网上的一些冷门书一般很少有 epub 文件，就算有，其排版也很糟糕，所以自己学了一点制作 epub 的知识，来排版自己想要读的书。
 
-一些比较大众的书就不制作了，毕竟外面这么多资源。
+一些比较大众的书就不制作了，毕竟外面这么多资源。或许有什么想读的书也可以发一个 Issues。
 
 ### 下载
 
@@ -34,6 +34,7 @@
 9. [凉宫春日系列](https://github.com/jinl1874/e-book/tree/master/%E8%BD%BB%E5%B0%8F%E8%AF%B4/%E5%87%89%E5%AE%AB%E6%98%A5%E6%97%A5%E7%B3%BB%E5%88%97)
 10. [特战先驱（雪豹）原著](https://github.com/jinl1874/e-book/tree/master/%E5%BD%93%E4%BB%A3%E5%B0%8F%E8%AF%B4/%E7%89%B9%E6%88%98%E5%85%88%E9%A9%B1%EF%BC%88%E9%9B%AA%E8%B1%B9%E5%8E%9F%E8%91%97%EF%BC%89)
 11. [寒蝉鸣泣之时](https://github.com/jinl1874/e-book/tree/master/%E8%BD%BB%E5%B0%8F%E8%AF%B4/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6)
+12. [海猫鸣泣之时](/推理小说/海猫鸣泣之时)
 
 ### epub 制作教程
 
